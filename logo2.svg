@@ -1,0 +1,12 @@
+<svg width="900" height="400" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" fill="#000000" stroke-width="0" x="380.75371" y="242.41045" id="svg_7" font-size="100" font-family="'Public Sans'" text-anchor="start" xml:space="preserve" font-weight="bold">tradium</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Public Sans'" font-size="110" id="svg_5" y="239.1287" x="160.61347" stroke-width="0" stroke="#000" fill="#007e66">{t;}</text>
+  <line stroke-width="5" id="svg_15" y2="259.1287" x2="345.7289" y1="156.1287" x1="345.7289" stroke="#000" fill="none"/>
+  <path fill="#0000ff" stroke="#000" stroke-width="0" opacity="NaN" d="m334,310.5l119,-1.5" id="svg_12"/>
+  <path fill="#007e66" stroke-width="0" opacity="NaN" d="m230.73466,132.05784l-9.87963,15.89969l-15.6368,-9.62265l-0.38325,18.64387l51.90502,-0.25514l-0.33851,-17.75285l-15.61876,8.88664l-10.04807,-15.79956z" id="svg_24"/>
+  <path fill="#ffffff" stroke-width="0" d="m226.75656,146.67126l4.40432,-6.06061l4.40433,6.06061l-4.40433,6.06061l-4.40432,-6.06061z" id="svg_37"/>
+ </g>
+
+</svg>
