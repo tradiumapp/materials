@@ -1,11 +1,11 @@
 <svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg">
  <g>
   <title>Layer 1</title>
-  <rect stroke="null" fill="#007e66" x="148.00019" y="134.00015" width="700.00143" height="700.00143" id="svg_3" rx="100" opacity="0.5"/>
-  <rect stroke="null" fill="#007e66" x="219.29655" y="205.29656" width="557.40859" height="557.40859" id="svg_4" rx="80" opacity="0.5"/>
-  <text stroke="#000" transform="matrix(2.5926 0 0 2.5926 -114.667 -89.1853)" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Public Sans'" font-size="110" id="svg_5" y="258.01441" x="167.31617" stroke-width="0" fill="#e8f7f7">{t;}</text>
-  <path stroke="null" id="svg_24" d="m500.84566,301.99964l-25.61391,41.2215l-40.53993,-24.94766l-0.99361,48.33606l134.56884,-0.66148l-0.87762,-46.026l-40.49316,23.03948l-26.0506,-40.96191z" opacity="NaN" stroke-width="0" fill="#e8f7f7"/>
-  <path stroke="null" id="svg_37" d="m490.53204,339.88636l11.41863,-15.71272l11.41866,15.71272l-11.41866,15.71272l-11.41863,-15.71272z" stroke-width="0" fill="#007e66" opacity="0.5"/>
+  <rect opacity="0.5" rx="100" id="svg_3" height="700.00143" width="700.00143" y="134.00015" x="148.00019" fill="#007e66" stroke="null"/>
+  <rect opacity="0.5" rx="80" id="svg_4" height="557.40859" width="557.40859" y="205.29656" x="219.29655" fill="#007e66" stroke="null"/>
+  <text fill="#e8f7f7" stroke-width="0" x="167.31617" y="258.01441" id="svg_5" font-size="110" font-family="'Public Sans'" text-anchor="start" xml:space="preserve" font-weight="bold" transform="matrix(2.5926 0 0 2.5926 -114.667 -89.1853)">{t;}</text>
+  <path fill="#e8f7f7" stroke-width="0" opacity="NaN" d="m500.84566,301.99964l-25.61391,41.2215l-40.53993,-24.94766l-0.99361,48.33606l134.56884,-0.66148l-0.87762,-46.026l-40.49316,23.03948l-26.0506,-40.96191l-0.00001,0.00001z" id="svg_24" stroke="null"/>
+  <path opacity="0.5" fill="#007e66" stroke-width="0" d="m490.53204,339.88636l11.41863,-15.71272l11.41866,15.71272l-11.41866,15.71272l-11.41863,-15.71272z" id="svg_37" stroke="null"/>
  </g>
 
 </svg>
